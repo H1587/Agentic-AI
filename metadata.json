@@ -1,0 +1,6 @@
+{
+  "name": "Cosmic Singularity Simulator",
+  "description": "An interactive, beautiful space simulation featuring immersive galactic backgrounds with depth of field and dramatic Blackhole and Whitehole singularity events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
